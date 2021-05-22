@@ -736,24 +736,6 @@ a {
   font-size: 60px;
   color: #777;
 }
-.cid-sy5vZP7hYD {
-  padding-top: 0rem;
-  padding-bottom: 1rem;
-  background-color: #fafafa;
-}
-.cid-sy5vZP7hYD .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-sy5vZP7hYD .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 100%;
-  }
-}
-.cid-sy5vZP7hYD .mbr-section-title {
-  color: #2f9b0b;
-}
 #custom-html-a {
   /* Type valid CSS here */
 }
